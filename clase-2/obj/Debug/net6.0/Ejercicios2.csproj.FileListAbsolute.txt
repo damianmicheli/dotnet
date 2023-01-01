@@ -1,0 +1,15 @@
+C:\Users\damia\Desktop\.net\Ejercicios2\bin\Debug\net6.0\Ejercicios2.exe
+C:\Users\damia\Desktop\.net\Ejercicios2\bin\Debug\net6.0\Ejercicios2.deps.json
+C:\Users\damia\Desktop\.net\Ejercicios2\bin\Debug\net6.0\Ejercicios2.runtimeconfig.json
+C:\Users\damia\Desktop\.net\Ejercicios2\bin\Debug\net6.0\Ejercicios2.dll
+C:\Users\damia\Desktop\.net\Ejercicios2\bin\Debug\net6.0\Ejercicios2.pdb
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.csproj.AssemblyReference.cache
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.AssemblyInfoInputs.cache
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.AssemblyInfo.cs
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.dll
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\refint\Ejercicios2.dll
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.pdb
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\Ejercicios2.genruntimeconfig.cache
+C:\Users\damia\Desktop\.net\Ejercicios2\obj\Debug\net6.0\ref\Ejercicios2.dll

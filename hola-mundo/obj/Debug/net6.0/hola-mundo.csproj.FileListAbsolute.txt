@@ -1,0 +1,15 @@
+C:\Users\damia\Desktop\.net\hola-mundo\bin\Debug\net6.0\hola-mundo.exe
+C:\Users\damia\Desktop\.net\hola-mundo\bin\Debug\net6.0\hola-mundo.deps.json
+C:\Users\damia\Desktop\.net\hola-mundo\bin\Debug\net6.0\hola-mundo.runtimeconfig.json
+C:\Users\damia\Desktop\.net\hola-mundo\bin\Debug\net6.0\hola-mundo.dll
+C:\Users\damia\Desktop\.net\hola-mundo\bin\Debug\net6.0\hola-mundo.pdb
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.csproj.AssemblyReference.cache
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.AssemblyInfoInputs.cache
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.AssemblyInfo.cs
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.dll
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\refint\hola-mundo.dll
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.pdb
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\hola-mundo.genruntimeconfig.cache
+C:\Users\damia\Desktop\.net\hola-mundo\obj\Debug\net6.0\ref\hola-mundo.dll
